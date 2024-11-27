@@ -3,3 +3,6 @@ Allow: /
 
 User-Agent: BaiduSpider
 Disallow: /
+
+Sitemap: https://www.zhaochengxiao.com/sitemap.xml
+
